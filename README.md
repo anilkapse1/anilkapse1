@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anil Kapse</h1>
-<h3 align="center">A passionate frontend developer from India, Gujarat</h3>
+
 <h3 align="center">
-  A Senior UI Developer, My Job Is Essentially To Turn Designs/Business Idea Into Reality Via Code And Enable User To Interact With A Data In A Safe And User-Friendly Way.
+  A passionate frontend developer from India, Gujarat, My Job Is Essentially To Turn Designs/Business Idea Into Reality Via Code And Enable User To Interact With A Data In A Safe And User-Friendly Way.
 </h3>
 
 
